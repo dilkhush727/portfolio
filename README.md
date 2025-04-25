@@ -7,13 +7,6 @@ This is a custom-built portfolio project developed using the **LAMP stack** (Lin
 - [Frontend](https://dilkhushyadav.com/humber/cms/)
 - [Admin Panel](https://dilkhushyadav.com/humber/cms/admin/)
 
-## 🔐 Admin Login
-
-**Credentials:**
-
-- **Email:** dilkhushyadav@gmail.com  
-- **Password:** dilkhush
-
 ## 🔧 Tech Stack
 
 - **Frontend:** HTML, CSS, Bootstrap  
